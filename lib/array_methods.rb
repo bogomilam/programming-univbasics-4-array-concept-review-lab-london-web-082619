@@ -6,7 +6,7 @@ while counter < array.length do
 new_array << array[counter] != counter
   counter += 1 
 end
-return new_array
+return index
 end
   
 
