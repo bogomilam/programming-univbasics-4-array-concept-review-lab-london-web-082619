@@ -15,7 +15,8 @@ x = array[0]
   array.length.times do { |index|
   if array[index] > x 
   x = array[index]
-  end}
+  end
+  }
 end
 
 return x 
