@@ -4,8 +4,6 @@ def find_element_index(array, value_to_find)
     puts count
   
 end  
-
-
 return nil
 end
   
