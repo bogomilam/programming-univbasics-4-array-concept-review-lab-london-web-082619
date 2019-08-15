@@ -2,8 +2,7 @@ def find_element_index(array, value_to_find)
     array.length.times do |count|
     array[count] == value_to_find
     puts count
-  
-end  
+  end  
 return nil
 end
   
