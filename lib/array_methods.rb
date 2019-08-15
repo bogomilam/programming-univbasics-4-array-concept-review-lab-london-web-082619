@@ -1,8 +1,8 @@
 def find_element_index(array, value_to_find)
-count = 0
+array.index
 
 
-return index
+return nil
 end
   
 
